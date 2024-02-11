@@ -21,7 +21,7 @@
 ### ⚙  Tools & Technologies
 
 <div>
-      <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,visualstudio">
+      <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio">
 </div>
 
 ---
