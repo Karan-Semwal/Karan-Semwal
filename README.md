@@ -12,8 +12,8 @@
 ### 🔧  Libs & Frameworks 
 
 <div>
-      <img width="100px" src="https://img.shields.io/badge/-SFML-000?&logo=SFML">
-      <!-- <img src="https://skillicons.dev/icons?i=nodejs"> -->
+      <img src="https://skillicons.dev/icons?i=react,nodejs">
+      <img width="130px" src="https://img.shields.io/badge/-SFML-242938?&logo=SFML">
 </div>
 
 ---
