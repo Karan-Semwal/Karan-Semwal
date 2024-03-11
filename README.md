@@ -29,3 +29,9 @@
 ### 👾  Stats
 
 ![Stats](https://streak-stats.demolab.com/?user=Karan-Semwal&theme=dark)
+
+---
+
+### 🏆  Badges
+
+[![Karan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karansemwal)](https://holopin.io/@karansemwal)
