@@ -35,3 +35,4 @@
 ### 🏆  Badges
 
 [![Karan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karansemwal)](https://holopin.io/@karansemwal)
+[![Karan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karansemwal6)](https://holopin.io/@karansemwal6)
