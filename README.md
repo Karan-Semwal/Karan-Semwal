@@ -4,7 +4,7 @@
 ### ⚒️  Languages & Databases
 
 <div>
-      <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,mysql">
+      <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,mysql,mongodb">
 </div>
 
 ---
@@ -12,8 +12,9 @@
 ### 🔧  Libs & Frameworks 
 
 <div>
-      <img src="https://skillicons.dev/icons?i=react,nodejs">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs">
       <img width="130px" src="https://img.shields.io/badge/-SFML-242938?&logo=SFML">
+<!--       <img width="45px" src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png"> -->
 </div>
 
 ---
@@ -21,7 +22,7 @@
 ### ⚙  Tools & Technologies
 
 <div>
-      <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio">
+      <img src="https://skillicons.dev/icons?i=git,github,linux,visualstudio,figma">
 </div>
 
 ---
