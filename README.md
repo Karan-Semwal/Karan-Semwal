@@ -12,7 +12,7 @@
 ### 🔧  Libs & Frameworks 
 
 <div>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,tailwind">
       <img width="130px" src="https://img.shields.io/badge/-SFML-242938?&logo=SFML">
 <!--       <img width="45px" src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png"> -->
 </div>
