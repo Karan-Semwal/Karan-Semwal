@@ -29,8 +29,11 @@
 
 ### 👾  Stats
 
-![Stats](https://streak-stats.demolab.com/?user=Karan-Semwal&theme=dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/karansemwal?theme=dark)
+<div style="display:flex; justify-content: center;">
+    <img src="https://streak-stats.demolab.com/?user=Karan-Semwal&theme=dark" alt="Stats" style="width: 45%; margin-right: 5px;">
+    <img src="https://leetcard.jacoblin.cool/karansemwal?theme=dark" alt="Leetcode Stats" style="width: 45%; margin-left: 5px;">
+</div>
+
 
 ---
 
