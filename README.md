@@ -30,6 +30,7 @@
 ### 👾  Stats
 
 ![Stats](https://streak-stats.demolab.com/?user=Karan-Semwal&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/karansemwal?theme=dark)
 
 ---
 
